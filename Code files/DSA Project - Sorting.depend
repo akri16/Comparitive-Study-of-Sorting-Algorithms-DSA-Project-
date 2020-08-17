@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1581848581 source:c:\users\dell\desktop\dsa project - sorting\insertion, bubble, selection.cpp
+	<iostream>
+
+1581848581 source:c:\users\dell\desktop\dsa project - sorting\merge sort.cpp
+	<iostream>
+
+1581848581 source:c:\users\dell\desktop\dsa project - sorting\quick sort.cpp
+	<iostream>
+
+1581867918 source:c:\users\dell\desktop\dsa project - sorting\main.cpp
+	<iostream>
+	<time.h>
+	<iomanip>
+	<cstdio>
+	<stdlib.h>
+
+1581848581 source:c:\users\dell\desktop\dsa project - sorting\code files\insertion, bubble, selection.cpp
+	<iostream>
+
+1581848581 source:c:\users\dell\desktop\dsa project - sorting\code files\merge sort.cpp
+	<iostream>
+
+1582724280 source:c:\users\dell\desktop\dsa project - sorting\code files\quick sort.cpp
+	<iostream>
+
+1582724149 source:c:\users\dell\desktop\dsa project - sorting\code files\main.cpp
+	<iostream>
+	<time.h>
+	<iomanip>
+	<cstdio>
+	<stdlib.h>
+
